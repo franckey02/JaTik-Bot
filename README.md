@@ -28,7 +28,7 @@ How to run:
   #2. Run this command in cmd:
 pip install tls_client requests colorama pillow
   # 3. run the python file by double clicking on it or type:
-python jbot.py
+python Jbot.py
 ```
 
 Advantages:
