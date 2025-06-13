@@ -1,5 +1,5 @@
+Este es un pequeño fork que hice para actualizar y corregir uno que otro error de este bot =D
 New 2025 update:
-
 Instead of unpatching every 2 days, I made a course to **teach you guys exactly how i made zefoy bo**t and much much more and also **5+ years of reverse engineering knowledge**:
 
 https://whop.com/reverser-academy
